@@ -1,0 +1,5 @@
+User-agent: *
+Disallow : /index-2.html
+Allow: /
+
+sitemap : https://ahmeeeeeeed.github.io/cv-ahmed-ben-mbarek/sitemap.xml
