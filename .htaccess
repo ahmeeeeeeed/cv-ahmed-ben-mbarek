@@ -12,7 +12,7 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteRule . /cv-ahmed-ben-mbarek/404.php [L]
+RewriteRule . /cv-ahmed-ben-mbarek/404.html [L]
 
 </IfModule>
 
